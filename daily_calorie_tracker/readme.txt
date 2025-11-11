@@ -1,0 +1,1 @@
+This mini project aims to help build a Python-based CLI (Command Line Interface) tool where they can log their meals and keep track of total calories consumed, compare against a personal daily limit, and save session logs for future tracking.
